@@ -256,7 +256,6 @@ header {
   justify-content: center;
   align-items: center;
   padding: 1rem;
-  /* margin-left: 4rem; */
 }
 
 .charector-img-img {
@@ -458,20 +457,8 @@ header {
     font-size: 2rem;
   }
 
-  .backpack-items {
-    max-width: 300px;
-    width: 90%;
-    margin: 0 auto;
-  }
-
   .statistics-items {
     row-gap: 1.5rem;
     column-gap: 2rem;
-
-    max-width: 300px;
-    width: 90%;
-    margin: 0 auto;
-
-    padding: 0 2rem;
   }
 }
